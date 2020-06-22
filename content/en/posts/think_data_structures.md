@@ -58,4 +58,3 @@ This is **box** shortcode
 
 {{< adsense >}} 
 
-{{< test action="https://www.google.com" >}}
