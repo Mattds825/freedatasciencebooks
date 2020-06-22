@@ -56,5 +56,4 @@ This is **boxmd** shortcode
 This is **box** shortcode
 {{< /box >}}
 
-{{< adsense >}} 
 
